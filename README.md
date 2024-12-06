@@ -11,7 +11,7 @@ Mạng xã hội này cung cấp các tính năng cơ bản như đăng ký, đ�
 ## Giới Thiệu
 Đây là giao diện người dùng được xây dựng bằng ReactJS của dự án Cloudy, phần client của một ứng dụng web, tương tác với backend API để hiển thị dữ liệu và xử lý các tính năng chính của ứng dụng.
 
-**Backend_Cloudy**: <code>https://github.com/thanhphat113/Backend_Cloudy<code>
+**Backend_Cloudy**: <code>https://github.com/thanhphat113/Backend_Cloudy</code>
 
 ## Tính Năng Chính
 - Kết nối với API để lấy dữ liệu.
@@ -51,7 +51,7 @@ npm i
 ```bash
 npm run dev
 ```
-API của bạn sẽ chạy trên cổng mặc định, ví dụ <code>http://localhost:3000<code>
+API của bạn sẽ chạy trên cổng mặc định, ví dụ <code>http://localhost:3000</code>
 
 ## Giới Thiệu Về Tác Giả
 
