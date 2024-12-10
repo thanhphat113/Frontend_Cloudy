@@ -42,6 +42,8 @@
         display: flex;
         justify-content: end;
         gap: 1rem;
+        color: #4586d6;
+
         i {
             display: flex;
             justify-content: center;
@@ -199,6 +201,8 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            color: #4586d6;
+
             border-radius: 50%;
             font-size: 2rem;
             width: 4.5rem;
@@ -213,4 +217,6 @@
 
 .file{
     max-width: 30rem;
+    border: 1px solid black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
